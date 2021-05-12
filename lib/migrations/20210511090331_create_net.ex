@@ -1,4 +1,4 @@
-defmodule PocEctoMigrationsLib.Repo.Migrations.CreateNet do
+defmodule PocEctoMigrationsLib.Repo.Migrations.V1.CreateNet do
   use Ecto.Migration
 
   def up do
